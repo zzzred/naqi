@@ -1,5 +1,10 @@
+<script>
+	function a() {
+		alert("xxx")
+	}
+</script>
+
 <section>
-	<p>sdas</p>
 	<img src="/1.jpg" alt="xx">
 	<img src="/3.png" alt="xx">
 
@@ -7,5 +12,6 @@
 <style lang="scss">
 	img{
 		width: 100%;
+		cursor: pointer;
 	}
 </style>
