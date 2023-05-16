@@ -1,7 +1,8 @@
 <section>
 	<p>sdas</p>
 	<img src="/1.jpg" alt="xx">
-	<img src="/1.jpg" alt="xx">
+	<img src="/2.jpg" alt="xx">
+
 </section>
 <style lang="scss">
 	img{
