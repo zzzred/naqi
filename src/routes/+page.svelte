@@ -4,7 +4,7 @@
 </script>
 
 <section class="root" bind:this={rootRef} style={`overflow: ${overflow}`}>
-  <div style="background-image: url('/60.png');" on:click={() => {
+  <div style="background-image: url('/60.jpg');" on:click={() => {
     overflow = 'auto'
     // rootRef.scrollTop = window.innerHeight
     rootRef.scrollTo({top: window.innerHeight, left: 0, behavior: 'smooth'})
